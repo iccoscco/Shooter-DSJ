@@ -86,4 +86,4 @@ Proyecto desarrollado con fines académicos. El código puede reutilizarse o mod
 
 ## 🙌 Créditos
 
-Proyecto desarrollado por **Ítalo Ccoscco Alvis** y **Oliver Mayta Nolasco**.
+Proyecto desarrollado por **Italo Ccoscco Alvis** y **Oliver Mayta Nolasco**.
